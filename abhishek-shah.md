@@ -1,6 +1,6 @@
 ###INTRODUCTION
 
-- [x] Abhishek Sah
+**Name: ** Abhishek Sah
  - [x] Indian
- - [x] Indian, Italian and English
  - [x] I code around and am a telejunkie.
+ **Favourite COlor: ** Black
